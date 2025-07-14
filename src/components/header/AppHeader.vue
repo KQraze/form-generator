@@ -10,7 +10,7 @@
         <RouterLink to="/register" class="header__link" active-class="active"
           >Регистрация</RouterLink
         >
-        <RouterLink to="/profile-edit" class="header__link" active-class="active"
+        <RouterLink to="/profile" class="header__link" active-class="active"
           >Профиль</RouterLink
         >
       </nav>
